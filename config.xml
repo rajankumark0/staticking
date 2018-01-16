@@ -13,7 +13,7 @@
            Staticking  team
         </author>
     
-    	<plugin name="org.apache.cordova.console" spec="0.3.1"/>
+    	<plugin name="org.apache.cordova.console" spec="0.2.13"/>
     	<plugin name="org.apache.cordova.device" spec="0.2.3" />
     	
     	
