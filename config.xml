@@ -23,9 +23,9 @@
 		 <plugin name="cordova-plugin-inappbrowser" spec="~2.0.1" />
 		
     	<plugin name="cordova-plugin-splashscreen"   />
-    	<!--<plugin name="cordova-plugin-contacts" spec="~2.3.0" />-->
+    	<plugin name="cordova-plugin-contacts" spec="~2.3.0" />
         
-		<plugin name="cordova-plugin-contacts" spec="~3.0.1" />
+		<!--<plugin name="cordova-plugin-contacts" spec="~3.0.1" />-->
 		
 		 <plugin name="com.telerik.plugins.nativepagetransitions" source="npm" />
 		
