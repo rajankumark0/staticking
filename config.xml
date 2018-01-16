@@ -25,7 +25,7 @@
     	<plugin name="cordova-plugin-splashscreen"   />
     	<plugin name="cordova-plugin-contacts" spec="~2.3.0" />
         
-		
+		<plugin name="cordova-plugin-file-transfer" spec="~1.7.0" />
 		
 		 <plugin name="com.telerik.plugins.nativepagetransitions" source="npm" />
 		
