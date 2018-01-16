@@ -14,7 +14,7 @@
         </author>
     
     	<!--<plugin name="org.apache.cordova.console" spec="0.2.7"/>-->
-		<plugin name="cordova-plugin-console" spec="~1.0.3" />
+		<plugin name="cordova-plugin-console" spec="~1.1.0" />
     	<plugin name="org.apache.cordova.device" spec="0.2.3" />
     	
     	
@@ -78,7 +78,7 @@
 		<gap:splash src="resource/splash/1280x720.png" gap:platform="android" width="1280" height="720" />
 		
     
-	         <preference name="phonegap-version" value="cli-7.1.0" /> 
+	         <preference name="phonegap-version" value="cli-6.5.0" /> 
 			  <preference name="SplashScreen" value="splash" />
 		
               <preference name="SplashScreenDelay" value="5000" />
